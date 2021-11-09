@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+    printf(" Homework type2 ");
+
+    return 0;
+}
